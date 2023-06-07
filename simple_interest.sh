@@ -4,19 +4,10 @@
 
 # Do not use this in production. Sample purpose only.
 
-# Author: Upkar Lidder (IBM)
+# Author: Kanchanparashar
 # Additional Authors:
-# A name
 
-# Input:
-# p, principal amount
-# t, time period in years
-# r, annual rate of interest
-
-# Output:
-# simple interest = p*t*r
-
-echo"Enter the principal:"
+echo"Enter the Testing number:"
 read p    
 echo"Enter rate of interest per year:"
 read r    
