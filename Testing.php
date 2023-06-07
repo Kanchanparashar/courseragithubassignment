@@ -1,1 +1,1 @@
-<?php echo 55555;exit?
+<?php echo 55555;exit;?
